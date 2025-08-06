@@ -1,0 +1,7 @@
+C:\Users\2acc1\Documents\2course\Конструювання\lab_02\task_04\bin\Debug\task_04.exe.config
+C:\Users\2acc1\Documents\2course\Конструювання\lab_02\task_04\bin\Debug\task_04.exe
+C:\Users\2acc1\Documents\2course\Конструювання\lab_02\task_04\bin\Debug\task_04.pdb
+C:\Users\2acc1\Documents\2course\Конструювання\lab_02\task_04\obj\Debug\task_04.csproj.AssemblyReference.cache
+C:\Users\2acc1\Documents\2course\Конструювання\lab_02\task_04\obj\Debug\task_04.csproj.CoreCompileInputs.cache
+C:\Users\2acc1\Documents\2course\Конструювання\lab_02\task_04\obj\Debug\task_04.exe
+C:\Users\2acc1\Documents\2course\Конструювання\lab_02\task_04\obj\Debug\task_04.pdb
